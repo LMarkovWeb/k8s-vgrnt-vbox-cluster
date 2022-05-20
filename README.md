@@ -58,5 +58,4 @@ kubeadm join 192.168.20.10:6443 --token ...
 ## Ссылки
 
 - [Установка и настройка кластера Kubernetes на Ubuntu Server](https://www.dmosk.ru/instruktions.php?object=kubernetes-ubuntu)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [{Habr. Как настроить Kubernetes кластер на Vagrant VM](https://habr.com/ru/post/599039/)
